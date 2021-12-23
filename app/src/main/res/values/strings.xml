@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ООО “А-групп”</string>
+
+    <string name="address">Красноярский края, пгт. Берёзовка, ул. Трактовая 75</string>
+    <string name="warehouse">Склад 65</string>
+
+    <string name="white_them">Белая тема</string>
+    <string name="black_them">Чёрная тема</string>
+</resources>
